@@ -1,2 +1,2 @@
 # wnba-lynx-data-stories
-exploring the lynx with data
+exploring the lynx with data!
